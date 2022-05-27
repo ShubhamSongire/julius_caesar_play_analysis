@@ -16,6 +16,8 @@ finally I got this dataframe:-
 ![image](https://user-images.githubusercontent.com/68246393/170643048-4dc24b67-dce6-47a0-9c2f-a3c1d66eab68.png)
 
 Using valence score of each dialogue I have grouped it by character name and plotted the graph for their which tells about overall behaviour and character's role in the play whether is it positive, negative or if he is spy then how he has changed his speech time to time.
+![index](https://user-images.githubusercontent.com/68246393/170643923-dbe08878-fab9-4751-bb73-811f409a72cc.png)
 
+## Thank you for visiting!
 
 
