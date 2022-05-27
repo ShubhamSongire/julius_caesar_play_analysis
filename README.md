@@ -1,6 +1,7 @@
 # julius_caesar_play_analysis
 
 This is a playscript of WILLIAM SHAKESPEARE's Julius Caesar play in which I have performed valence score, sentiment analysis, emotion analysis, and plotted charts for the overall role and behavior of the character throughout the play.
+playscript:- https://github.com/ShubhamSongire/julius_caesar_play_analysis/blob/main/juliuscaesar.txt
 ![image](https://user-images.githubusercontent.com/68246393/170629923-bcca5201-14a6-4b20-8179-a268074d44c1.png)
 
 
